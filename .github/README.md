@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
+  <img src="https://graph.org/file/391ed151c4e39e54eaa59.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [xᴅ sᴛʀɪɴɢ](https://t.me/XD_STRING_BOT)**_
@@ -23,7 +23,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [xᴅ sᴛʀɪɴɢ](
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
+  <img src="https://graph.org/file/391ed151c4e39e54eaa59.jpg">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
+  <img src="https://graph.org/file/391ed151c4e39e54eaa59.jpg">
 </p>
 
 </details>
